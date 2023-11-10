@@ -5,15 +5,16 @@ import Gallery from "./component/Gallery";
 import Homepage from "./pages/Homepage";
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<SharedLayout />}>
-          <Route index element={<Homepage />} />
+    // <Router>
+    //   <Routes>
+    //     <Route path="/" element={<SharedLayout />}>
+    //       <Route index element={<Homepage />} />
 
-          <Route path="gallery" element={<Gallery />} />
-        </Route>
-      </Routes>
-    </Router>
+    //       <Route path="gallery" element={<Gallery />} />
+    //     </Route>
+    //   </Routes>
+    // </Router>
+    <div>.=hello</div>
   );
 }
 
