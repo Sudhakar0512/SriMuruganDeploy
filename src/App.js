@@ -5,7 +5,7 @@ import Gallery from "./component/Gallery";
 import Homepage from "./pages/Homepage";
 function App() {
   return (
-    <Router>
+    <Router basename="/SriMuruganDeploy">
       <Routes>
         <Route path="/" element={<SharedLayout />}>
           <Route index element={<Homepage />} />
