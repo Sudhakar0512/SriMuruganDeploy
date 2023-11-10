@@ -7,7 +7,7 @@ function App() {
   return (
     <Router basename="/SriMuruganDeploy">
       <Routes>
-        <Route path="/" element={<SharedLayout />}>
+        <Route exact path="/SriMuruganDeploy" element={<SharedLayout />}>
           <Route index element={<Homepage />} />
 
           <Route path="gallery" element={<Gallery />} />
