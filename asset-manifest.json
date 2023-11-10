@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/SriMuruganDeploy/static/css/main.1545ac35.css",
+    "main.js": "/SriMuruganDeploy/static/js/main.0d44cc95.js",
+    "static/js/787.91b0033e.chunk.js": "/SriMuruganDeploy/static/js/787.91b0033e.chunk.js",
+    "static/media/aboutVideo2.mp4": "/SriMuruganDeploy/static/media/aboutVideo2.fa7a5a804c6d1d820327.mp4",
+    "static/media/b1.jpg": "/SriMuruganDeploy/static/media/b1.01227918c3eed2e06dbe.jpg",
+    "static/media/plan.jpg": "/SriMuruganDeploy/static/media/plan.af0ed453845c67d7d2db.jpg",
+    "static/media/b6.jpg": "/SriMuruganDeploy/static/media/b6.a758945e5e437dbb865f.jpg",
+    "static/media/renovation.jpeg": "/SriMuruganDeploy/static/media/renovation.20262074d3093b649f03.jpeg",
+    "static/media/b5.jpg": "/SriMuruganDeploy/static/media/b5.0c934a7ff24cce4549a6.jpg",
+    "static/media/interior.jpg": "/SriMuruganDeploy/static/media/interior.9fe4d57ac07ba8601921.jpg",
+    "static/media/b3.jpg": "/SriMuruganDeploy/static/media/b3.9f386abb452f2616ae67.jpg",
+    "static/media/b4.jpg": "/SriMuruganDeploy/static/media/b4.2af21bc19cc31618172d.jpg",
+    "static/media/homepro.png": "/SriMuruganDeploy/static/media/homepro.6fa9832233b01530636f.png",
+    "static/media/tvpro.jpeg": "/SriMuruganDeploy/static/media/tvpro.8d5624b05fec2b7c4aa9.jpeg",
+    "static/media/homepro3.jpg": "/SriMuruganDeploy/static/media/homepro3.1ca051c7e7d73fef8856.jpg",
+    "static/media/logo.png": "/SriMuruganDeploy/static/media/logo.425ff3303b84663b4c33.png",
+    "static/media/materilas.jpeg": "/SriMuruganDeploy/static/media/materilas.c3e57b75657dde9e91d4.jpeg",
+    "static/media/homeprayer.jpg": "/SriMuruganDeploy/static/media/homeprayer.1cf2d39340369e5b7a05.jpg",
+    "static/media/building.jpg": "/SriMuruganDeploy/static/media/building.4600c2b12e95c6eb7347.jpg",
+    "static/media/homepro2.jpg": "/SriMuruganDeploy/static/media/homepro2.4b43751d5d6fd69957b7.jpg",
+    "static/media/footerBackGround.png": "/SriMuruganDeploy/static/media/footerBackGround.e31a78fa8a9a4141c298.png",
+    "static/media/flooringpro.jpg": "/SriMuruganDeploy/static/media/flooringpro.9ae3d3438ce3689a5d7d.jpg",
+    "static/media/location.png": "/SriMuruganDeploy/static/media/location.a405c2668c55f74c09be.png",
+    "static/media/lg.svg?io9a6k": "/SriMuruganDeploy/static/media/lg.09cd8e9be7081f216644.svg",
+    "static/media/phone-call.png": "/SriMuruganDeploy/static/media/phone-call.d35848942c955a6232b3.png",
+    "static/media/lg.woff?io9a6k": "/SriMuruganDeploy/static/media/lg.356a0e9cb064c7a196c6.woff",
+    "static/media/lg.ttf?io9a6k": "/SriMuruganDeploy/static/media/lg.747d038541bfc6bb8ea9.ttf",
+    "static/media/lg.woff2?io9a6k": "/SriMuruganDeploy/static/media/lg.64b800aa30714fd916dc.woff2",
+    "index.html": "/SriMuruganDeploy/index.html",
+    "main.1545ac35.css.map": "/SriMuruganDeploy/static/css/main.1545ac35.css.map",
+    "main.0d44cc95.js.map": "/SriMuruganDeploy/static/js/main.0d44cc95.js.map",
+    "787.91b0033e.chunk.js.map": "/SriMuruganDeploy/static/js/787.91b0033e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1545ac35.css",
+    "static/js/main.0d44cc95.js"
+  ]
+}
