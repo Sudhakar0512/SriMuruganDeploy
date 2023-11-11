@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../assets/b3.jpg";
+import img from "../assets/profile.png";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/swiper-bundle.css";
@@ -17,7 +17,7 @@ export default function Review() {
             className="home-slider mySwiper" // Add your slider class
             loop={true}
             grabCursor={true}
-            autoplay={{ delay: 3000, disableOnInteraction: false }}
+            autoplay={{ delay: 5000, disableOnInteraction: false }}
             breakpoints={{
               640: { slidesPerView: 2, spaceBetween: 20 },
               768: { slidesPerView: 2, spaceBetween: 20 },

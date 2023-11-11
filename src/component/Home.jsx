@@ -4,6 +4,7 @@ import img2 from "../assets/b5.jpg";
 import img3 from "../assets/b3.jpg";
 import img4 from "../assets/b4.jpg";
 import img5 from "../assets/homepro3.jpg";
+import { Link } from 'react-scroll';
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/swiper-bundle.css"; // Import the styles
@@ -45,9 +46,9 @@ export default function Home() {
                     Construction Excellence Where Hard Hats Meet Heart and Hands
                     Build Your Dreams.
                   </p>
-                  <a href="#about" className="btn">
-                    get Started
-                  </a>
+                  <Link to="about" smooth={true} className="btn" duration={200}>
+                  get Started
+                   </Link>
                 </div>
               </section>
             </SwiperSlide>
@@ -64,9 +65,16 @@ export default function Home() {
                     Architecting Dreams, Crafting Realities: Where Imagination
                     Meets Tangible Brilliance.
                   </p>
-                  <a href="#about" className="btn">
+                  {/* <a href="#about" className="btn">
                     get Started
-                  </a>
+                  </a> */}
+                  {/* <Link to="about" smooth={true} duration={500}>
+                  get Started
+                  </Link> */}
+                   <Link to="about" smooth={true} className="btn" duration={200}>
+                   get Started
+                   </Link>
+                  
                 </div>
               </section>
             </SwiperSlide>
@@ -80,9 +88,9 @@ export default function Home() {
                   <p className="p3">
                   Crafting Dreams, One Solid Foundation at a Time - Excellence Defined.
                   </p>
-                  <a href="#about" className="btn">
-                    get Started
-                  </a>
+                  <Link to="about" smooth={true} className="btn" duration={200}>
+                  get Started
+                   </Link>
                 </div>
               </section>
             </SwiperSlide>
@@ -97,9 +105,9 @@ export default function Home() {
                     Unleashing Innovation, Connecting Minds, Crafting Tomorrow's
                     Limitless Possibilities.
                   </p>
-                  <a href="#about" className="btn">
-                    get Started
-                  </a>
+                  <Link to="about" smooth={true} className="btn" duration={200} >
+                  get Started
+                   </Link>
                 </div>
               </section>
             </SwiperSlide>
@@ -114,9 +122,9 @@ export default function Home() {
                     Elevating Dreams, Building Excellence – Your Vision, Our
                     Construction Expertise.
                   </p>
-                  <a href="#about" className="btn ">
-                    get Started
-                  </a>
+                  <Link to="about" smooth={true} className="btn" duration={200} >
+                  get Started
+                   </Link>
                 </div>
               </section>
             </SwiperSlide>

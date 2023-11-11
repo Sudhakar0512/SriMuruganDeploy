@@ -1,5 +1,6 @@
 import React from "react";
 import img1 from "../assets/aboutVideo2.mp4";
+import { Link } from 'react-scroll';
 export default function About() {
   return (
     <section className="about" id="about">
@@ -21,9 +22,9 @@ export default function About() {
             masterful expertise,Where Dreams Take Flight, and Your Construction
             Aspirations Materialize in a Symphony of Skill and Innovation
           </p>
-          <a href="#services" className="btn">
-            read more
-          </a>
+          <Link to="reviwes" smooth={true} className="btn" duration={200} >
+              read more
+          </Link>
         </div>
       </div>
       <div className="box-container" style={{cursor:'pointer'}}>
@@ -36,7 +37,7 @@ export default function About() {
           <p className="p">Project completion</p>
         </div>
         <div className="box">
-          <h3 className="h3">100+</h3>
+          <h3 className="h3">50+</h3>
           <p className="p">satiesified clients</p>
         </div>
         <div className="box">
