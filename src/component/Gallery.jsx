@@ -33,7 +33,7 @@ export default function Gallery() {
   useEffect(() => {
     // Fetch sorted data when the component mounts
     axios
-      .get("http://localhost:8080/api/products/all")
+      .get("https://srimuruganspringpro.onrender.com/api/products/all")
       .then((response) => {
         setData(response.data);
         setIsLoading(false);
